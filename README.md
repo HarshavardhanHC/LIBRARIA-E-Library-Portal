@@ -67,7 +67,7 @@ We are grateful to the following individuals for their contributions to the BMSC
 
 - Gunjal Kothari 
 - Abhinav Ishan 
-- Harshvardhan 
+- Harshavardhan HC
 - Harsh Kumar 
  
 
