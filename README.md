@@ -65,10 +65,10 @@ By addressing these ethical aspects, we aim to build a responsible and user-focu
 We are grateful to the following individuals for their contributions to the BMSCE College Library System project:
 
 
-- Gunjal Kothari [@GunjalKothari](https://github.com/GunjalKothari)
-- Abhinav Ishan [@ishan6000](https://github.com/ishan6000)
-- Harshvardhan [@Harshvardhan-HC](https://github.com/Harshavardhan-HC)
-- Harsh Kumar [@harshkr1](https://github.com/Harshkr1)
+- Gunjal Kothari 
+- Abhinav Ishan 
+- Harshvardhan 
+- Harsh Kumar 
  
 
 
